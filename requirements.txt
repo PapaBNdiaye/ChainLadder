@@ -1,0 +1,6 @@
+chainladder>=0.8.26
+streamlit>=1.28.0
+pandas>=2.3.3
+plotly>=5.0.0
+matplotlib>=3.9.0
+ipython>=7.0.0
